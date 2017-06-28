@@ -1,0 +1,27 @@
+﻿빌드 시작: 2017-06-08 오전 2:47:17
+     1>2 노드의 "D:\내 폴더\2017-1학기\네프\HW3_122021\PrjServer\PrjServer.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\PrjServer.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PrjServer.cpp
+         PrjServer.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\PrjServer.exe.embed.manifest.res" Debug\PrjServer_manifest.rc 
+       Link:
+         D:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\내 폴더\2017-1학기\네프\HW3_122021\PrjServer\Debug\PrjServer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PrjServer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\내 폴더\2017-1학기\네프\HW3_122021\PrjServer\Debug\PrjServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\내 폴더\2017-1학기\네프\HW3_122021\PrjServer\Debug\PrjServer.lib" /MACHINE:X86 Debug\PrjServer.exe.embed.manifest.res
+         Debug\PrjServer.obj
+         LINK : D:\내 폴더\2017-1학기\네프\HW3_122021\PrjServer\Debug\PrjServer.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\PrjServer.exe.embed.manifest" /manifest Debug\PrjServer.exe.intermediate.manifest
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         PrjServer.vcxproj -> D:\내 폴더\2017-1학기\네프\HW3_122021\PrjServer\Debug\PrjServer.exe
+       FinalizeBuildStatus:
+         "Debug\PrjServer.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\PrjServer.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"D:\내 폴더\2017-1학기\네프\HW3_122021\PrjServer\PrjServer.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.82
